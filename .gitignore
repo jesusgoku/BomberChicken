@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 com/zetcode/
 
 *.class
@@ -6,3 +7,11 @@ com/zetcode/
 *.jar
 *.war
 *.ear
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> a1ae2bd3a877eb4b7deb11a69a39eb9c84b04d5b
